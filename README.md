@@ -1,13 +1,14 @@
 # Latelaisten sanoituksia
 ## Ohjeet
 
-Tämä on
+Tämä on  
 Säkeistö
 
 \* Tämä on  
 \* Kertosäe
 
-:,: Tämä lauletaan kaksi kertaa :,:
+:,: Tämä lauletaan  
+kaksi kertaa :,:
 
 \* Tämä on...  
 (Koko kertosäe uudelleen)
