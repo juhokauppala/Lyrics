@@ -6,11 +6,11 @@ Tosi kova meno
 
 Säkeistö 2
 
-H0:ko voimaan jää, me sitä viikkoja tutkittiin.
-Ja eihän sitä kestänyt tupsufuksin pää, kun niitä harkkoja laskettiin.
-Silti sydämeni Sirkun vain luennoille jää, kun olen
-normaalijakautunut, riskitason asettanut
-tavallinen tilastomatikan läpäissyt mies.
+* H0:ko voimaan jää, me sitä viikkoja tutkittiin.
+* Ja eihän sitä kestänyt tupsufuksin pää, kun niitä harkkoja laskettiin.
+* Silti sydämeni Sirkun vain luennoille jää, kun olen
+* normaalijakautunut, riskitason asettanut
+* tavallinen tilastomatikan läpäissyt mies.
 
 Säkeistö 3
 
@@ -18,7 +18,7 @@ Tosi kova meno
 
 Säkeistö 4
 
-H0:ko voimaan jää...
+* H0:ko voimaan jää...
 
 Säkeistö 5
 
@@ -26,4 +26,4 @@ Tosi kova meno
 
 Säkeistö 6
 
-H0:ko voimaan jää...
+* H0:ko voimaan jää...
