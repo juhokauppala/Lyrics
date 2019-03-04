@@ -4,10 +4,10 @@
 Tämä on
 Säkeistö
 
-\* Tämä on
+\* Tämä on  
 \* Kertosäe
 
 :,: Tämä lauletaan kaksi kertaa :,:
 
-\* Tämä on...
+\* Tämä on...  
 (Koko kertosäe uudelleen)
