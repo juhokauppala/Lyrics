@@ -14,7 +14,7 @@ Hän mulle laskukaavat antaa
 Ei tarvii lambdaa, et tää ratkeaa
 
 * Y:n suhteen derivoin x:ää
-* Parasta se on vaikkei vastaukset tästää
+* Parasta se on vaikkei vastaukset täsmää
 * Lauseke supistuu, helpolla päästään
 * Sen laskin hoitelee
 *
